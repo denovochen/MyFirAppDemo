@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirAppDemo</string>
+    <string name="phone_number_label">手机号:</string>
+    <string name="enter_phone_number_hint">请输入手机号</string>
+    <string name="password_label">密  码:</string>
+    <string name="enter_password_hint">请输入密码</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="register_button">注册</string>
+    <string name="reading">读书</string>
+    <string name="sports">打球</string>
+    <string name="music">听音乐</string>
+
+</resources>
